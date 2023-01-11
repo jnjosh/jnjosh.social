@@ -1,0 +1,397 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "jnjosh's microblog",
+	"icon": "https://micro.blog/jnjosh/avatar.jpg",
+	"home_page_url": "https://jnjosh.social/",
+	"feed_url": "https://jnjosh.social/feed.json",
+	"items": [
+		
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/10/woah-i-just.html",
+				
+				"content_html": "<p>Woah, I just learned the gradient in the sky from my photo earlier today is called a “Belt of Venus”</p>\n<p><a href=\"https://en.m.wikipedia.org/wiki/Belt_of_Venus\">https://en.m.wikipedia.org/wiki/Belt_of_Venus</a></p>\n",
+				"content_text": "Woah, I just learned the gradient in the sky from my photo earlier today is called a “Belt of Venus”\n\nhttps://en.m.wikipedia.org/wiki/Belt_of_Venus\n",
+				"date_published": "2023-01-10T17:33:30-05:00",
+				"url": "https://jnjosh.social/2023/01/10/woah-i-just.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/10/i-just-mistyped.html",
+				
+				"content_html": "<p>I just mistyped the name of the show &ldquo;Ted Lasso&rdquo; as … Tex Lasso. Now I need to know what that show is about.</p>\n",
+				"content_text": "I just mistyped the name of the show \"Ted Lasso\" as … Tex Lasso. Now I need to know what that show is about.\n",
+				"date_published": "2023-01-10T15:26:24-05:00",
+				"url": "https://jnjosh.social/2023/01/10/i-just-mistyped.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/10/i-love-the.html",
+				
+				"content_html": "<p>I love the gradient of the sky over the ocean at sunset.</p>\n<p>23mm • ƒ/2 • 1/500s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love the gradient of the sky over the ocean at sunset. \r\n\r\n23mm • ƒ/2 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/b7dc248ee3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-01-10T10:48:18-05:00",
+				"url": "https://jnjosh.social/2023/01/10/i-love-the.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/09/soim-going-to.html",
+				
+				"content_html": "<p>So… I&rsquo;m going to try out a newsletter using my Micro.blog. If you enjoy the photos I post almost every day and want a monthly round-up, you can subscribe here! <a href=\"https://jnjosh.social/subscribe/\">jnjosh.social/subscribe&hellip;</a></p>\n",
+				"content_text": "So… I'm going to try out a newsletter using my Micro.blog. If you enjoy the photos I post almost every day and want a monthly round-up, you can subscribe here! [jnjosh.social/subscribe...](https://jnjosh.social/subscribe/)\n",
+				"date_published": "2023-01-09T17:02:14-05:00",
+				"url": "https://jnjosh.social/2023/01/09/soim-going-to.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/09/driftwood-and-debris.html",
+				
+				"content_html": "<p>Driftwood and debris in the sand at Jockey’s Ridge State Park last year.</p>\n<p>Kodak Portra 400 • 35mm • Canon P • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Driftwood and debris in the sand at Jockey’s Ridge State Park last year.\r\n\r\nKodak Portra 400 • 35mm • Canon P • #photography\n\n<img src=\"uploads/2023/129d7ee5a5.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"date_published": "2023-01-09T15:46:57-05:00",
+				"url": "https://jnjosh.social/2023/01/09/driftwood-and-debris.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/07/remember-back-in.html",
+				
+				"content_html": "<p>Remember back in fall when the leaves were so colorful? Winter is great but sometimes I like to still see fall colors!</p>\n<p>23mm • ƒ/8 • 1/1000s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Remember back in fall when the leaves were so colorful? Winter is great but sometimes I like to still see fall colors!\n\n23mm • ƒ/8 • 1/1000s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/5f13d95d66.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-01-07T21:16:09-05:00",
+				"url": "https://jnjosh.social/2023/01/07/remember-back-in.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/06/i-uh-i.html",
+				
+				"content_html": "<p>I… uh… I think it’s been tampered with 😬</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I… uh… I think it’s been tampered with 😬\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/683e48a03b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-06T19:16:16-05:00",
+				"url": "https://jnjosh.social/2023/01/06/i-uh-i.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/06/the-beach-at.html",
+				
+				"content_html": "<p>The beach at Rodanthe, NC looking toward the pier.</p>\n<p>400mm • ƒ/6.3 • 1/500s • ISO 6400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The beach at Rodanthe, NC looking toward the pier.\n\n400mm • ƒ/6.3 • 1/500s • ISO 6400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/d3a688c63c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-06T09:41:02-05:00",
+				"url": "https://jnjosh.social/2023/01/06/the-beach-at.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/05/a-tree-in.html",
+				
+				"content_html": "<p>A tree in the lake in front of US-64 at the Pocosin Lakes National Wildlife Refuge in Columbia, NC.</p>\n<p>23mm • ƒ/7.1 • 1/500s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A tree in the lake in front of US-64 at the Pocosin Lakes National Wildlife Refuge in Columbia, NC.\n\n23mm • ƒ/7.1 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/f1da764eda.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-05T10:46:54-05:00",
+				"url": "https://jnjosh.social/2023/01/05/a-tree-in.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/04/we-finished-watching.html",
+				
+				"content_html": "<p>📺 We finished watching Netflix’s “Kaleidoscope“ and I’m not convinced that the watch in any order idea worked out. Many of the episode felt like they relied too much on knowing the characters.</p>\n",
+				"content_text": "📺 We finished watching Netflix’s “Kaleidoscope“ and I’m not convinced that the watch in any order idea worked out. Many of the episode felt like they relied too much on knowing the characters. \n",
+				"date_published": "2023-01-04T23:20:05-05:00",
+				"url": "https://jnjosh.social/2023/01/04/we-finished-watching.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/04/the-oregon-inlet.html",
+				
+				"content_html": "<p>The Oregon Inlet Life Saving Station is something I’ve wanted to photograph all year. I didn’t know it was such a great place to walk in the sand and explore the beach.</p>\n<p>100mm • ƒ/16 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Oregon Inlet Life Saving Station is something I’ve wanted to photograph all year. I didn’t know it was such a great place to walk in the sand and explore the beach.\n\n100mm • ƒ/16 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/240f4d38df.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-04T09:54:27-05:00",
+				"url": "https://jnjosh.social/2023/01/04/the-oregon-inlet.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/03/one-more-sunset.html",
+				
+				"content_html": "<p>One more sunset photo of the dock on the Neuse River in New Bern, NC. This was one of the highlights of our stay there.</p>\n<p>23mm • ƒ/5.6 • 1/500s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One more sunset photo of the dock on the Neuse River in New Bern, NC. This was one of the highlights of our stay there. \n\n23mm • ƒ/5.6 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/a567966aea.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-01-03T10:44:44-05:00",
+				"url": "https://jnjosh.social/2023/01/03/one-more-sunset.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/03/movie-glass-onion.html",
+				
+				"content_html": "<p>2023 Movie #1: “Glass Onion: A Knives Out Mystery“. Really fun movie and I laughed a lot.</p>\n<p>“It&rsquo;s a dangerous thing to mistake speaking without thought for speaking the truth. Don&rsquo;t you think?” — Benoit Blanc</p>\n",
+				"content_text": "2023 Movie #1: “Glass Onion: A Knives Out Mystery“. Really fun movie and I laughed a lot. \n\n“It's a dangerous thing to mistake speaking without thought for speaking the truth. Don't you think?” — Benoit Blanc\n",
+				"date_published": "2023-01-03T00:06:58-05:00",
+				"url": "https://jnjosh.social/2023/01/03/movie-glass-onion.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/02/i-watched-movies.html",
+				
+				"content_html": "<p>I watched 99 movies in 2022. Including rewatching all the Mission: Impossible and Lord of the Rings movies. Enjoyed a lot of them but some of my favorites were &ldquo;Everything Everywhere All at Once&rdquo;, &ldquo;Weird: The Al Yankovic Story&rdquo;, and &ldquo;RRR&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I watched 99 movies in 2022. Including rewatching all the Mission: Impossible and Lord of the Rings movies. Enjoyed a lot of them but some of my favorites were \"Everything Everywhere All at Once\", \"Weird: The Al Yankovic Story\", and \"RRR\".\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/5a64a2854e.png\" width=\"557\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-02T22:59:15-05:00",
+				"url": "https://jnjosh.social/2023/01/02/i-watched-movies.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/02/a-collection-of.html",
+				
+				"content_html": "<p>A collection of photos from the abandoned Waterfall Park in Rodanthe, NC on the Outer Banks. This park with go-kart track, waterslides, and more have been abandoned since ~2010.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "A collection of photos from the abandoned Waterfall Park in Rodanthe, NC on the Outer Banks. This park with go-kart track, waterslides, and more have been abandoned since ~2010. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/ad7576304f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/cd96ef918f.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/64c8d8bf3b.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/d71cd82e26.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/40c115f251.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/f223ca1ef8.jpg\" width=\"600\" height=\"444\" alt=\"\">\n",
+				"date_published": "2023-01-02T22:25:38-05:00",
+				"url": "https://jnjosh.social/2023/01/02/a-collection-of.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/02/doors-and-windows.html",
+				
+				"content_html": "<p>Doors and windows of the Atalaya Castle at Huntington Beach State Park in South Carolina.</p>\n<p>18mm • ƒ/5.6 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Doors and windows of the Atalaya Castle at Huntington Beach State Park in South Carolina.\r\n\r\n18mm • ƒ/5.6 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/cf73c19151.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-02T14:16:25-05:00",
+				"url": "https://jnjosh.social/2023/01/02/doors-and-windows.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/02/really-glad-we.html",
+				
+				"content_html": "<p>Really glad we did our 10 day van trip, it was fun and challenging (weather didn’t help). I’m also glad we left a day to unwind before I go back to work.</p>\n",
+				"content_text": "Really glad we did our 10 day van trip, it was fun and challenging (weather didn’t help). I’m also glad we left a day to unwind before I go back to work. \n",
+				"date_published": "2023-01-02T12:35:45-05:00",
+				"url": "https://jnjosh.social/2023/01/02/really-glad-we.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/01/01/seagulls-presumably-having.html",
+				
+				"content_html": "<p>Seagulls presumably having a beach meeting about the rough ocean and wind.</p>\n<p>400mm • ƒ/6.3 • 1/500s • ISO 3200 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Seagulls presumably having a beach meeting about the rough ocean and wind.\n\n400mm • ƒ/6.3 • 1/500s • ISO 3200 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/b3fb7906b8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-01T20:27:43-05:00",
+				"url": "https://jnjosh.social/2023/01/01/seagulls-presumably-having.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/31/a-trail-from.html",
+				
+				"content_html": "<p>A trail from earlier this year during autumn. I started hiking a lot this year and really love trails like this in the fall. Looking forward to what I’ll see hiking in 2023. Happy New Year!</p>\n<p>23mm • ƒ/4 • 1/500s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A trail from earlier this year during autumn. I started hiking a lot this year and really love trails like this in the fall. Looking forward to what I’ll see hiking in 2023. Happy New Year!\n\n23mm • ƒ/4 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/a0d4e6d3c7.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-31T20:37:19-05:00",
+				"url": "https://jnjosh.social/2022/12/31/a-trail-from.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/30/the-dock-at.html",
+				
+				"content_html": "<p>The dock at the New Bern KOA at sunset over the Neuse River</p>\n<p>100mm • ƒ/22 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The dock at the New Bern KOA at sunset over the Neuse River\n\n100mm • ƒ/22 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2022/6b9b77da48.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-30T19:27:23-05:00",
+				"url": "https://jnjosh.social/2022/12/30/the-dock-at.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/30/this-onion-post.html",
+				
+				"content_html": "<p>This Onion Post titled &ldquo;Seagull With Diarrhea Barely Makes It To Crowded Beach In Time&rdquo; is almost 10 years old and still funny every time.</p>\n<p><a href=\"https://www.theonion.com/seagull-with-diarrhea-barely-makes-it-to-crowded-beach-1819574572\">www.theonion.com/seagull-w&hellip;</a></p>\n",
+				"content_text": "This Onion Post titled \"Seagull With Diarrhea Barely Makes It To Crowded Beach In Time\" is almost 10 years old and still funny every time.\n\n[www.theonion.com/seagull-w...](https://www.theonion.com/seagull-with-diarrhea-barely-makes-it-to-crowded-beach-1819574572)\n",
+				"date_published": "2022-12-30T18:57:29-05:00",
+				"url": "https://jnjosh.social/2022/12/30/this-onion-post.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/28/a-frozen-jellyfish.html",
+				
+				"content_html": "<p>A frozen jellyfish on the beach at Huntington Beach State Park.</p>\n<p>18mm • ƒ/10 • 1/500s • ISO 400 • #photography • Sony ɑ7 IV</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A frozen jellyfish on the beach at Huntington Beach State Park. \n\n18mm • ƒ/10 • 1/500s • ISO 400 • #photography • Sony ɑ7 IV\n\n\n\n<img src=\"uploads/2022/b72c02ce4e.jpg\" width=\"421\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-28T19:10:48-05:00",
+				"url": "https://jnjosh.social/2022/12/28/a-frozen-jellyfish.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/27/sunset-over-the.html",
+				
+				"content_html": "<p>Sunset over the Neuse River in New Bern, North Carolina</p>\n<p>174mm • ƒ/25 • 1/500s • ISO 800 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sunset over the Neuse River in New Bern, North Carolina\n\n174mm • ƒ/25 • 1/500s • ISO 800 • Sony ɑ7 IV • #photography \n\n<img src=\"uploads/2022/c6545aeaf5.jpg\" width=\"437\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-27T21:58:51-05:00",
+				"url": "https://jnjosh.social/2022/12/27/sunset-over-the.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/27/ginger-finally-decided.html",
+				
+				"content_html": "<p>Ginger finally decided it’s fun to look out the van window. This time she found a squirrel.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ginger finally decided it’s fun to look out the van window. This time she found a squirrel.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/59f6d2459e.jpg\" width=\"450\" height=\"600\" alt=\"Cat looking out a van window with an RV in the background.\">\n",
+				"date_published": "2022-12-27T13:32:57-05:00",
+				"url": "https://jnjosh.social/2022/12/27/ginger-finally-decided.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/26/a-heron-out.html",
+				
+				"content_html": "<p>A heron out for dinner at Huntington Beach State Park in South Carolina</p>\n<p>85mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A heron out for dinner at Huntington Beach State Park in South Carolina\n\n85mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2022/136d8e22ba.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-26T19:39:25-05:00",
+				"url": "https://jnjosh.social/2022/12/26/a-heron-out.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/25/a-starfish-on.html",
+				
+				"content_html": "<p>A starfish on the beach.</p>\n<p>18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A starfish on the beach.\n\n18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/61fa80812c.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-25T19:57:05-05:00",
+				"url": "https://jnjosh.social/2022/12/25/a-starfish-on.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/25/just-realized-if.html",
+				
+				"content_html": "<p>Just realized if Ginger goes into her kitty-cave that has the bread on it… we’ll have a Ginger breadhouse for Christmas!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just realized if Ginger goes into her kitty-cave that has the bread on it… we’ll have a Ginger breadhouse for Christmas!\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/8de9494fda.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-25T18:55:59-05:00",
+				"url": "https://jnjosh.social/2022/12/25/just-realized-if.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/25/so-excited-to.html",
+				
+				"content_html": "<p>So excited to see the next several hours above freezing! It’s a Christmas miracle! 😜</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "So excited to see the next several hours above freezing! It’s a Christmas miracle! 😜\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/0e265442da.jpg\" width=\"600\" height=\"296\" alt=\"\">\n",
+				"date_published": "2022-12-25T11:41:31-05:00",
+				"url": "https://jnjosh.social/2022/12/25/so-excited-to.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/24/its-a-campervan.html",
+				
+				"content_html": "<p>it’s a campervan christmas and these are our decorations</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "it’s a campervan christmas and these are our decorations \n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/100a6d3a35.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-24T23:23:57-05:00",
+				"url": "https://jnjosh.social/2022/12/24/its-a-campervan.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/24/christmas-eve-pizza.html",
+				
+				"content_html": "<p>Christmas eve pizza, even in the van!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Christmas eve pizza, even in the van! \n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/cf38642805.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-24T18:26:41-05:00",
+				"url": "https://jnjosh.social/2022/12/24/christmas-eve-pizza.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/24/a-shell-alone.html",
+				
+				"content_html": "<p>A shell alone and surrounded by this neat pattern in the sand.</p>\n<p>18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A shell alone and surrounded by this neat pattern in the sand. \n\n18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/e300aec301.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-24T17:31:27-05:00",
+				"url": "https://jnjosh.social/2022/12/24/a-shell-alone.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/23/ginger-is-slowly.html",
+				
+				"content_html": "<p>Ginger is slowly accepting this van thing.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ginger is slowly accepting this van thing.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/65024fcb2a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-23T18:02:31-05:00",
+				"url": "https://jnjosh.social/2022/12/23/ginger-is-slowly.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/23/first-time-seeing.html",
+				
+				"content_html": "<p>First time seeing a Rivian charger</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "First time seeing a Rivian charger\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/afb7eec0a9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-23T13:03:02-05:00",
+				"url": "https://jnjosh.social/2022/12/23/first-time-seeing.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/23/so-windy-this.html",
+				
+				"content_html": "<p>So windy! This is wind from the cold front are wild just outside of Myrtle Beach, SC. These lights are hopefully ok since they probably experienced a hurricane.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "So windy! This is wind from the cold front are wild just outside of Myrtle Beach, SC. These lights are hopefully ok since they probably experienced a hurricane.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/7dfc33c4eb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-23T12:53:23-05:00",
+				"url": "https://jnjosh.social/2022/12/23/so-windy-this.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/22/new-workout-needed.html",
+				
+				"content_html": "<p>New workout needed on my Apple Watch: Packing for a camping trip.</p>\n<p>😮‍💨</p>\n",
+				"content_text": "New workout needed on my Apple Watch: Packing for a camping trip.\n\n😮‍💨 \n",
+				"date_published": "2022-12-22T21:43:10-05:00",
+				"url": "https://jnjosh.social/2022/12/22/new-workout-needed.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/21/a-nice-porch.html",
+				
+				"content_html": "<p>A nice porch that overlooks the Bodie Island Lighthouse on the Outer Banks of North Carolina. I probably could just sit here for awhile.</p>\n<p>Kodak Portra 400 • 35mm • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A nice porch that overlooks the Bodie Island Lighthouse on the Outer Banks of North Carolina. I probably could just sit here for awhile.\n\nKodak Portra 400 • 35mm • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/a33cd2cb47.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"date_published": "2022-12-21T13:01:30-05:00",
+				"url": "https://jnjosh.social/2022/12/21/a-nice-porch.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/21/wow-this-stop.html",
+				
+				"content_html": "<p>Wow this stop motion is amazing</p>\n<p><a href=\"https://twitter.com/kevinbparry/status/1605242905995530240?s=61&amp;t=-6PqCoZSKWzp_uNODbqWjg\">twitter.com/kevinbpar&hellip;</a></p>\n",
+				"content_text": "Wow this stop motion is amazing\n\n[twitter.com/kevinbpar...](https://twitter.com/kevinbparry/status/1605242905995530240?s=61&t=-6PqCoZSKWzp_uNODbqWjg)\n",
+				"date_published": "2022-12-21T12:26:40-05:00",
+				"url": "https://jnjosh.social/2022/12/21/wow-this-stop.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/21/planning-for-our.html",
+				
+				"content_html": "<p>Planning for our next van trip has been made more difficult due to the incoming &ldquo;arctic blast&rdquo;. However all I can think of is how @nlj requested pancakes for a meal and now I want to cook VANCAKES.</p>\n",
+				"content_text": "Planning for our next van trip has been made more difficult due to the incoming \"arctic blast\". However all I can think of is how @nlj requested pancakes for a meal and now I want to cook VANCAKES.\n",
+				"date_published": "2022-12-21T11:49:51-05:00",
+				"url": "https://jnjosh.social/2022/12/21/planning-for-our.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/20/going-on-afternoon.html",
+				
+				"content_html": "<p>Going on afternoon walks is rough when afternoon becomes evening at around 4pm. But the shadows look great!</p>\n<p>23mm • ƒ/4.5 • 1/640s • ISO 400 • Fujifilm X100V</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Going on afternoon walks is rough when afternoon becomes evening at around 4pm. But the shadows look great!\n\n23mm • ƒ/4.5 • 1/640s • ISO 400 • Fujifilm X100V\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/ee0caafdbb.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-20T20:41:58-05:00",
+				"url": "https://jnjosh.social/2022/12/20/going-on-afternoon.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/20/our-triumphant-return.html",
+				
+				"content_html": "<p>Our triumphant return to YouTube after a ~1 year break 🤣</p>\n<p><a href=\"https://youtu.be/W-3BybN5hZ4\">youtu.be/W-3BybN5h&hellip;</a></p>\n",
+				"content_text": "Our triumphant return to YouTube after a ~1 year break 🤣\n\n[youtu.be/W-3BybN5h...](https://youtu.be/W-3BybN5hZ4)\n",
+				"date_published": "2022-12-20T12:27:09-05:00",
+				"url": "https://jnjosh.social/2022/12/20/our-triumphant-return.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/19/ginger-knows-what.html",
+				
+				"content_html": "<p>Ginger knows what she is doing. Staying warm on my lap.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ginger knows what she is doing. Staying warm on my lap.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/975a433d6a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-19T18:18:18-05:00",
+				"url": "https://jnjosh.social/2022/12/19/ginger-knows-what.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/19/im-really-surprised.html",
+				
+				"content_html": "<p>I&rsquo;m really surprised how popular the World Cup has been in the US this year. I don&rsquo;t feel like I&rsquo;ve ever heard this much about it? I&rsquo;ve never really paid much attention to Soccer/Football but it feels like everyone loves it now?</p>\n",
+				"content_text": "I'm really surprised how popular the World Cup has been in the US this year. I don't feel like I've ever heard this much about it? I've never really paid much attention to Soccer/Football but it feels like everyone loves it now?\n",
+				"date_published": "2022-12-19T11:14:57-05:00",
+				"url": "https://jnjosh.social/2022/12/19/im-really-surprised.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/18/the-new-river.html",
+				
+				"content_html": "<p>The New River Trail State Park has some nice views of the river with a cliff face.</p>\n<p>23mm • ƒ/11 • 1/500s • ISO 400 • Fujifilm X100V</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The New River Trail State Park has some nice views of the river with a cliff face.\n\n23mm • ƒ/11 • 1/500s • ISO 400 • Fujifilm X100V\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/d8d29552d5.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-18T23:27:26-05:00",
+				"url": "https://jnjosh.social/2022/12/18/the-new-river.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/18/with-very-little.html",
+				
+				"content_html": "<p>With very little thought put into it, I humbly submit 1995&rsquo;s &ldquo;Hackers&rdquo; to the most 90s movie whenever @patrickhwillems gets around to it.</p>\n<p><a href=\"https://twitter.com/patrickhwillems/status/1604146333446799362?s=61&amp;t=ijhglBLnHJQf7mazue2Cfw\">twitter.com/patrickhw&hellip;</a></p>\n",
+				"content_text": "With very little thought put into it, I humbly submit 1995's \"Hackers\" to the most 90s movie whenever @patrickhwillems gets around to it.\r\n\r\n[twitter.com/patrickhw...](https://twitter.com/patrickhwillems/status/1604146333446799362?s=61&t=ijhglBLnHJQf7mazue2Cfw)\n",
+				"date_published": "2022-12-18T23:00:38-05:00",
+				"url": "https://jnjosh.social/2022/12/18/with-very-little.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/18/ginger-looking-through.html",
+				
+				"content_html": "<p>Ginger looking through the screen door of the van contemplating how to convince us to stop this whole van thing.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ginger looking through the screen door of the van contemplating how to convince us to stop this whole van thing.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/91048dc71d.jpg\" width=\"401\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-18T22:46:46-05:00",
+				"url": "https://jnjosh.social/2022/12/18/ginger-looking-through.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2022/12/18/there-are-no.html",
+				
+				"content_html": "<p>There are no birds or elephants here.</p>\n",
+				"content_text": "There are no birds or elephants here.\n",
+				"date_published": "2022-12-18T22:23:05-05:00",
+				"url": "https://jnjosh.social/2022/12/18/there-are-no.html"
+			}
+	]
+}
