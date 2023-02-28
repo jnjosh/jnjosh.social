@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jnjosh.micro.blog/2023/02/28/the-sun-reflacting.html",
+				
+				"content_html": "<p>The sun reflacting off of two buildings in downtown Greensboro, NC</p>\n<p>50mm • Ilford HP5+ • Canon EOS 650 • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The sun reflacting off of two buildings in downtown Greensboro, NC\r\n\r\n50mm • Ilford HP5+ • Canon EOS 650 • #photography\n\n<img src=\"uploads/2023/33edcb121c.jpg\" width=\"397\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-28T11:20:19-05:00",
+				"url": "https://jnjosh.social/2023/02/28/the-sun-reflacting.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/02/24/a-train-leaving.html",
+				
+				"content_html": "<p>A train leaving Raleigh&rsquo;s Union Station</p>\n<p>50mm • ISO 400 • Ilford HP5+ • Canon EOS 650 • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A train leaving Raleigh's Union Station\r\n\r\n50mm • ISO 400 • Ilford HP5+ • Canon EOS 650 • #photography\n\n<img src=\"uploads/2023/c9e01ab535.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-02-24T10:26:18-05:00",
+				"url": "https://jnjosh.social/2023/02/24/a-train-leaving.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/02/23/the-back-of.html",
+				
+				"content_html": "<p>The back of the boathouse at Lake Crabtree Park with a small canoe in Raleigh</p>\n<p>Ilford Delta 400 • Mamiya 645 Super • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The back of the boathouse at Lake Crabtree Park with a small canoe in Raleigh\r\n\r\nIlford Delta 400 • Mamiya 645 Super • #photography\n\n<img src=\"uploads/2023/9aba04ef9f.jpg\" width=\"600\" height=\"439\" alt=\"\">\n",
+				"date_published": "2023-02-23T11:03:45-05:00",
+				"url": "https://jnjosh.social/2023/02/23/the-back-of.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://jnjosh.micro.blog/2023/02/21/downtown-raleigh-nc.html",
 				
 				"content_html": "<p>Downtown Raleigh, NC at dusk</p>\n<p>Ilford HP5+ • 35mm • Canon P • #photography</p>\n<!-- raw HTML omitted -->\n",
@@ -54,7 +81,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/14/digging-up-my.html",
 				
 				"content_html": "<p>Digging up my old camera equipment I found this old DIY lens adapter I made to get “film like” footage on my minidv cameras. I ground the ground-glass myself!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Digging up my old camera equipment I found this old DIY lens adapter I made to get “film like” footage on my minidv cameras. I ground the ground-glass myself!\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/082cdb0018.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/47ca88fdcb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/a3d1ab2dd5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Digging up my old camera equipment I found this old DIY lens adapter I made to get “film like” footage on my minidv cameras. I ground the ground-glass myself!\n\n<img src=\"uploads/2023/082cdb0018.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/47ca88fdcb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/a3d1ab2dd5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-14T21:15:12-05:00",
 				"url": "https://jnjosh.social/2023/02/14/digging-up-my.html"
 			},
@@ -62,7 +89,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/14/after-i-bought.html",
 				
 				"content_html": "<p>After I bought my rangefinder film camera last year, I promptly put a roll of Ilford HP5+ in it and… took a self portrait in the mirror. Then forgot to develop it for a year.</p>\n<p>50mm • ISO 400 • Canon P</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After I bought my rangefinder film camera last year, I promptly put a roll of Ilford HP5+ in it and… took a self portrait in the mirror. Then forgot to develop it for a year.\r\n\r\n50mm • ISO 400 • Canon P\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/e130f99d59.jpg\" width=\"600\" height=\"480\" alt=\"\">\n",
+				"content_text": "After I bought my rangefinder film camera last year, I promptly put a roll of Ilford HP5+ in it and… took a self portrait in the mirror. Then forgot to develop it for a year.\r\n\r\n50mm • ISO 400 • Canon P\n\n<img src=\"uploads/2023/e130f99d59.jpg\" width=\"600\" height=\"480\" alt=\"\">\n",
 				"date_published": "2023-02-14T14:02:48-05:00",
 				"url": "https://jnjosh.social/2023/02/14/after-i-bought.html"
 			},
@@ -94,7 +121,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/09/its-simple-but.html",
 				
 				"content_html": "<p>It&rsquo;s simple but taking a photo towards the sun in the shadow of a tree will always look cool to me.</p>\n<p>24mm • ƒ/1.8 • 1/2000s • ISO 100 • iPhone 14 Pro • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's simple but taking a photo towards the sun in the shadow of a tree will always look cool to me.\r\n\r\n24mm • ƒ/1.8 • 1/2000s • ISO 100 • iPhone 14 Pro • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/244bd6e996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "It's simple but taking a photo towards the sun in the shadow of a tree will always look cool to me.\r\n\r\n24mm • ƒ/1.8 • 1/2000s • ISO 100 • iPhone 14 Pro • #photography\n\n<img src=\"uploads/2023/244bd6e996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-09T10:49:23-05:00",
 				"url": "https://jnjosh.social/2023/02/09/its-simple-but.html",
 				"tags": ["photography"]
@@ -103,7 +130,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/08/a-shadowy-self.html",
 				
 				"content_html": "<p>A shadowy self portrait during my hike in front of this fallen tree at Umstead park in Raleigh.</p>\n<p>24mm • ƒ/1.8 • 1/710s • ISO 100 • iPhone 14 Pro • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A shadowy self portrait during my hike in front of this fallen tree at Umstead park in Raleigh.\r\n\r\n24mm • ƒ/1.8 • 1/710s • ISO 100 • iPhone 14 Pro • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/bb8fc6a6ef.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "A shadowy self portrait during my hike in front of this fallen tree at Umstead park in Raleigh.\r\n\r\n24mm • ƒ/1.8 • 1/710s • ISO 100 • iPhone 14 Pro • #photography\n\n<img src=\"uploads/2023/bb8fc6a6ef.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-08T12:54:32-05:00",
 				"url": "https://jnjosh.social/2023/02/08/a-shadowy-self.html",
 				"tags": ["photography"]
@@ -112,7 +139,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/07/its-new-camera.html",
 				
 				"content_html": "<p>It&rsquo;s new camera day! I bought an old Mamiya 645 Super medium format film camera! It has a waist-level view finder too, so it&rsquo;ll be a learning experience. Can&rsquo;t wait to see how the first set of photos!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It's new camera day! I bought an old Mamiya 645 Super medium format film camera! It has a waist-level view finder too, so it'll be a learning experience. Can't wait to see how the first set of photos!\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/63366b24a0.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/f71a649c81.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "It's new camera day! I bought an old Mamiya 645 Super medium format film camera! It has a waist-level view finder too, so it'll be a learning experience. Can't wait to see how the first set of photos!\n\n<img src=\"uploads/2023/63366b24a0.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/f71a649c81.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-07T19:52:13-05:00",
 				"url": "https://jnjosh.social/2023/02/07/its-new-camera.html"
 			},
@@ -120,7 +147,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/07/i-really-like.html",
 				
 				"content_html": "<p>I really like when my hikes require a creek crossing. This one must have previously had a bridge.</p>\n<p>23mm • ƒ/2 • 1/400s • ISO 800 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I really like when my hikes require a creek crossing. This one must have previously had a bridge.\r\n\r\n23mm • ƒ/2 • 1/400s • ISO 800 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/f9a3382d89.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "I really like when my hikes require a creek crossing. This one must have previously had a bridge.\r\n\r\n23mm • ƒ/2 • 1/400s • ISO 800 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/f9a3382d89.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-07T10:46:42-05:00",
 				"url": "https://jnjosh.social/2023/02/07/i-really-like.html",
 				"tags": ["photography"]
@@ -129,7 +156,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/06/went-hiking-in.html",
 				
 				"content_html": "<p>Went hiking in the rain and a small creek started forming along the trail. It’s much more muddy when hiking in the rain but need to remember to still go!</p>\n<p>23mm • ƒ/2 • 1/500s • ISO 800 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Went hiking in the rain and a small creek started forming along the trail. It’s much more muddy when hiking in the rain but need to remember to still go!\r\n\r\n23mm • ƒ/2 • 1/500s • ISO 800 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/ece2f8c62c.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Went hiking in the rain and a small creek started forming along the trail. It’s much more muddy when hiking in the rain but need to remember to still go!\r\n\r\n23mm • ƒ/2 • 1/500s • ISO 800 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/ece2f8c62c.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-06T09:39:36-05:00",
 				"url": "https://jnjosh.social/2023/02/06/went-hiking-in.html",
 				"tags": ["photography"]
@@ -146,7 +173,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/03/these-mushrooms-look.html",
 				
 				"content_html": "<p>These mushrooms look uncomfortably close to those infected in “The Last of Us”—I’ll just take this photo and continue walking.</p>\n<p>23mm • ƒ/2 • 1/400s • ISO 800 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "These mushrooms look uncomfortably close to those infected in “The Last of Us”—I’ll just take this photo and continue walking. \r\n\r\n23mm • ƒ/2 • 1/400s • ISO 800 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/6d506ba9d7.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "These mushrooms look uncomfortably close to those infected in “The Last of Us”—I’ll just take this photo and continue walking. \r\n\r\n23mm • ƒ/2 • 1/400s • ISO 800 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/6d506ba9d7.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-03T11:22:14-05:00",
 				"url": "https://jnjosh.social/2023/02/03/these-mushrooms-look.html",
 				"tags": ["photography"]
@@ -163,7 +190,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/02/these-little-stumpsive.html",
 				
 				"content_html": "<p>These little stumps(?)—I’ve just been calling them treelings—in front of a murky pond are along my morning hikes.</p>\n<p>23mm • ƒ/2 • 1/400s • ISO 800 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "These little stumps(?)—I’ve just been calling them treelings—in front of a murky pond are along my morning hikes.\r\n\r\n23mm • ƒ/2 • 1/400s • ISO 800 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/d1119d1946.jpg\" width=\"423\" height=\"600\" alt=\"\">\n",
+				"content_text": "These little stumps(?)—I’ve just been calling them treelings—in front of a murky pond are along my morning hikes.\r\n\r\n23mm • ƒ/2 • 1/400s • ISO 800 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/d1119d1946.jpg\" width=\"423\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-02T09:47:00-05:00",
 				"url": "https://jnjosh.social/2023/02/02/these-little-stumpsive.html",
 				"tags": ["photography"]
@@ -172,7 +199,7 @@
 				"id": "http://jnjosh.micro.blog/2023/02/01/the-bridge-over.html",
 				
 				"content_html": "<p>The bridge over a small pond for the miniature train ride around Pullen Park in Raleigh. I was trying to capture the light reflecting off the water onto the bridge—looks really cool.</p>\n<p>Ilford HP5+ • 35mm • ISO 400 • Canon P • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The bridge over a small pond for the miniature train ride around Pullen Park in Raleigh. I was trying to capture the light reflecting off the water onto the bridge—looks really cool.\r\n\r\nIlford HP5+ • 35mm • ISO 400 • Canon P • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/c1d466e694.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "The bridge over a small pond for the miniature train ride around Pullen Park in Raleigh. I was trying to capture the light reflecting off the water onto the bridge—looks really cool.\r\n\r\nIlford HP5+ • 35mm • ISO 400 • Canon P • #photography\n\n<img src=\"uploads/2023/c1d466e694.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-02-01T22:15:27-05:00",
 				"url": "https://jnjosh.social/2023/02/01/the-bridge-over.html",
 				"tags": ["photography"]
@@ -207,7 +234,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/28/the-bike-rack.html",
 				
 				"content_html": "<p>The bike rack looks so goofy in the rear view camera sticking out the back of our jeep.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The bike rack looks so goofy in the rear view camera sticking out the back of our jeep.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/00ee51f28a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The bike rack looks so goofy in the rear view camera sticking out the back of our jeep.\n\n<img src=\"uploads/2023/00ee51f28a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-28T15:35:19-05:00",
 				"url": "https://jnjosh.social/2023/01/28/the-bike-rack.html"
 			},
@@ -241,7 +268,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/25/a-scooter-parked.html",
 				
 				"content_html": "<p>A scooter parked next to the scrap exchange in Durham, NC</p>\n<p>Ilford HP5+ • 35mm • ISO 400 • Canon P • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A scooter parked next to the scrap exchange in Durham, NC\r\n\r\nIlford HP5+ • 35mm • ISO 400 • Canon P • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/a372500fc5.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "A scooter parked next to the scrap exchange in Durham, NC\r\n\r\nIlford HP5+ • 35mm • ISO 400 • Canon P • #photography\n\n<img src=\"uploads/2023/a372500fc5.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-01-25T13:47:31-05:00",
 				"url": "https://jnjosh.social/2023/01/25/a-scooter-parked.html",
 				"tags": ["photography"]
@@ -274,7 +301,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/19/rocks-stacked-on.html",
 				
 				"content_html": "<p>Rocks stacked on the path at the Pea Island National Wildlife Refuge on the Outer Banks, NC. With the very cool looking Life Saving Station in the background!</p>\n<p>70mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rocks stacked on the path at the Pea Island National Wildlife Refuge on the Outer Banks, NC. With the very cool looking Life Saving Station in the background!\r\n\r\n70mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/6376fc1fdd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Rocks stacked on the path at the Pea Island National Wildlife Refuge on the Outer Banks, NC. With the very cool looking Life Saving Station in the background!\r\n\r\n70mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2023/6376fc1fdd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-19T12:19:59-05:00",
 				"url": "https://jnjosh.social/2023/01/19/rocks-stacked-on.html",
 				"tags": ["photography"]
@@ -283,7 +310,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/17/this-pelican-spent.html",
 				
 				"content_html": "<p>This pelican spent a lot of time trolling a heron at Huntington Beach State Park in SC.</p>\n<p>18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This pelican spent a lot of time trolling a heron at Huntington Beach State Park in SC.\n\n18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/eaf454c4c6.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_text": "This pelican spent a lot of time trolling a heron at Huntington Beach State Park in SC.\n\n18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2023/eaf454c4c6.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-17T15:34:40-05:00",
 				"url": "https://jnjosh.social/2023/01/17/this-pelican-spent.html",
 				"tags": ["photography"]
@@ -300,7 +327,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/13/the-oregon-inlet.html",
 				
 				"content_html": "<p>The Oregon Inlet life saving station nestled in sand dunes on the Outer Banks of North Carolina.</p>\n<p>100mm • ƒ/16 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Oregon Inlet life saving station nestled in sand dunes on the Outer Banks of North Carolina.\r\n\r\n100mm • ƒ/16 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/2d2649aa57.jpg\" width=\"600\" height=\"423\" alt=\"\">\n",
+				"content_text": "The Oregon Inlet life saving station nestled in sand dunes on the Outer Banks of North Carolina.\r\n\r\n100mm • ƒ/16 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2023/2d2649aa57.jpg\" width=\"600\" height=\"423\" alt=\"\">\n",
 				"date_published": "2023-01-13T10:03:28-05:00",
 				"url": "https://jnjosh.social/2023/01/13/the-oregon-inlet.html",
 				"tags": ["photography"]
@@ -317,7 +344,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/12/the-supports-for.html",
 				
 				"content_html": "<p>The supports for the dock on the Neuse River in New Bern, NC—but all close up with reflections and kind of abstract.</p>\n<p>400mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The supports for the dock on the Neuse River in New Bern, NC—but all close up with reflections and kind of abstract.\r\n\r\n400mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/8061747923.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The supports for the dock on the Neuse River in New Bern, NC—but all close up with reflections and kind of abstract.\r\n\r\n400mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2023/8061747923.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-12T10:44:16-05:00",
 				"url": "https://jnjosh.social/2023/01/12/the-supports-for.html",
 				"tags": ["photography"]
@@ -326,7 +353,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/11/walking-around-the.html",
 				
 				"content_html": "<p>Walking around the Pea Island National Wildlife Refuge on North Carolina&rsquo;s Outer Banks we found this lone tree on the beach.</p>\n<p>24mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Walking around the Pea Island National Wildlife Refuge on North Carolina's Outer Banks we found this lone tree on the beach. \r\n\r\n24mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/4815f14e29.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Walking around the Pea Island National Wildlife Refuge on North Carolina's Outer Banks we found this lone tree on the beach. \r\n\r\n24mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2023/4815f14e29.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-11T13:21:57-05:00",
 				"url": "https://jnjosh.social/2023/01/11/walking-around-the.html",
 				"tags": ["photography"]
@@ -351,7 +378,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/10/i-love-the.html",
 				
 				"content_html": "<p>I love the gradient of the sky over the ocean at sunset.</p>\n<p>23mm • ƒ/2 • 1/500s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I love the gradient of the sky over the ocean at sunset. \r\n\r\n23mm • ƒ/2 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/b7dc248ee3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "I love the gradient of the sky over the ocean at sunset. \r\n\r\n23mm • ƒ/2 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/b7dc248ee3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-10T10:48:18-05:00",
 				"url": "https://jnjosh.social/2023/01/10/i-love-the.html",
 				"tags": ["photography"]
@@ -368,7 +395,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/09/driftwood-and-debris.html",
 				
 				"content_html": "<p>Driftwood and debris in the sand at Jockey’s Ridge State Park last year.</p>\n<p>Kodak Portra 400 • 35mm • Canon P • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Driftwood and debris in the sand at Jockey’s Ridge State Park last year.\r\n\r\nKodak Portra 400 • 35mm • Canon P • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/129d7ee5a5.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "Driftwood and debris in the sand at Jockey’s Ridge State Park last year.\r\n\r\nKodak Portra 400 • 35mm • Canon P • #photography\n\n<img src=\"uploads/2023/129d7ee5a5.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2023-01-09T15:46:57-05:00",
 				"url": "https://jnjosh.social/2023/01/09/driftwood-and-debris.html",
 				"tags": ["photography"]
@@ -377,7 +404,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/07/remember-back-in.html",
 				
 				"content_html": "<p>Remember back in fall when the leaves were so colorful? Winter is great but sometimes I like to still see fall colors!</p>\n<p>23mm • ƒ/8 • 1/1000s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Remember back in fall when the leaves were so colorful? Winter is great but sometimes I like to still see fall colors!\n\n23mm • ƒ/8 • 1/1000s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/5f13d95d66.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Remember back in fall when the leaves were so colorful? Winter is great but sometimes I like to still see fall colors!\n\n23mm • ƒ/8 • 1/1000s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/5f13d95d66.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-07T21:16:09-05:00",
 				"url": "https://jnjosh.social/2023/01/07/remember-back-in.html",
 				"tags": ["photography"]
@@ -386,7 +413,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/06/i-uh-i.html",
 				
 				"content_html": "<p>I… uh… I think it’s been tampered with 😬</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I… uh… I think it’s been tampered with 😬\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/683e48a03b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I… uh… I think it’s been tampered with 😬\n\n<img src=\"uploads/2023/683e48a03b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-06T19:16:16-05:00",
 				"url": "https://jnjosh.social/2023/01/06/i-uh-i.html"
 			},
@@ -394,7 +421,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/06/the-beach-at.html",
 				
 				"content_html": "<p>The beach at Rodanthe, NC looking toward the pier.</p>\n<p>400mm • ƒ/6.3 • 1/500s • ISO 6400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The beach at Rodanthe, NC looking toward the pier.\n\n400mm • ƒ/6.3 • 1/500s • ISO 6400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/d3a688c63c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The beach at Rodanthe, NC looking toward the pier.\n\n400mm • ƒ/6.3 • 1/500s • ISO 6400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2023/d3a688c63c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-06T09:41:02-05:00",
 				"url": "https://jnjosh.social/2023/01/06/the-beach-at.html",
 				"tags": ["photography"]
@@ -403,7 +430,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/05/a-tree-in.html",
 				
 				"content_html": "<p>A tree in the lake in front of US-64 at the Pocosin Lakes National Wildlife Refuge in Columbia, NC.</p>\n<p>23mm • ƒ/7.1 • 1/500s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A tree in the lake in front of US-64 at the Pocosin Lakes National Wildlife Refuge in Columbia, NC.\n\n23mm • ƒ/7.1 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/f1da764eda.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "A tree in the lake in front of US-64 at the Pocosin Lakes National Wildlife Refuge in Columbia, NC.\n\n23mm • ƒ/7.1 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/f1da764eda.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-05T10:46:54-05:00",
 				"url": "https://jnjosh.social/2023/01/05/a-tree-in.html",
 				"tags": ["photography"]
@@ -420,7 +447,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/04/the-oregon-inlet.html",
 				
 				"content_html": "<p>The Oregon Inlet Life Saving Station is something I’ve wanted to photograph all year. I didn’t know it was such a great place to walk in the sand and explore the beach.</p>\n<p>100mm • ƒ/16 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Oregon Inlet Life Saving Station is something I’ve wanted to photograph all year. I didn’t know it was such a great place to walk in the sand and explore the beach.\n\n100mm • ƒ/16 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/240f4d38df.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The Oregon Inlet Life Saving Station is something I’ve wanted to photograph all year. I didn’t know it was such a great place to walk in the sand and explore the beach.\n\n100mm • ƒ/16 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2023/240f4d38df.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-04T09:54:27-05:00",
 				"url": "https://jnjosh.social/2023/01/04/the-oregon-inlet.html",
 				"tags": ["photography"]
@@ -429,7 +456,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/03/one-more-sunset.html",
 				
 				"content_html": "<p>One more sunset photo of the dock on the Neuse River in New Bern, NC. This was one of the highlights of our stay there.</p>\n<p>23mm • ƒ/5.6 • 1/500s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One more sunset photo of the dock on the Neuse River in New Bern, NC. This was one of the highlights of our stay there. \n\n23mm • ƒ/5.6 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/a567966aea.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "One more sunset photo of the dock on the Neuse River in New Bern, NC. This was one of the highlights of our stay there. \n\n23mm • ƒ/5.6 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/a567966aea.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-03T10:44:44-05:00",
 				"url": "https://jnjosh.social/2023/01/03/one-more-sunset.html",
 				"tags": ["photography"]
@@ -446,7 +473,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/02/i-watched-movies.html",
 				
 				"content_html": "<p>I watched 99 movies in 2022. Including rewatching all the Mission: Impossible and Lord of the Rings movies. Enjoyed a lot of them but some of my favorites were &ldquo;Everything Everywhere All at Once&rdquo;, &ldquo;Weird: The Al Yankovic Story&rdquo;, and &ldquo;RRR&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I watched 99 movies in 2022. Including rewatching all the Mission: Impossible and Lord of the Rings movies. Enjoyed a lot of them but some of my favorites were \"Everything Everywhere All at Once\", \"Weird: The Al Yankovic Story\", and \"RRR\".\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/5a64a2854e.png\" width=\"557\" height=\"600\" alt=\"\">\n",
+				"content_text": "I watched 99 movies in 2022. Including rewatching all the Mission: Impossible and Lord of the Rings movies. Enjoyed a lot of them but some of my favorites were \"Everything Everywhere All at Once\", \"Weird: The Al Yankovic Story\", and \"RRR\".\n\n<img src=\"uploads/2023/5a64a2854e.png\" width=\"557\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-02T22:59:15-05:00",
 				"url": "https://jnjosh.social/2023/01/02/i-watched-movies.html"
 			},
@@ -454,7 +481,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/02/a-collection-of.html",
 				
 				"content_html": "<p>A collection of photos from the abandoned Waterfall Park in Rodanthe, NC on the Outer Banks. This park with go-kart track, waterslides, and more have been abandoned since ~2010.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A collection of photos from the abandoned Waterfall Park in Rodanthe, NC on the Outer Banks. This park with go-kart track, waterslides, and more have been abandoned since ~2010. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/ad7576304f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/cd96ef918f.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/64c8d8bf3b.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/d71cd82e26.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/40c115f251.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/94963/2023/f223ca1ef8.jpg\" width=\"600\" height=\"444\" alt=\"\">\n",
+				"content_text": "A collection of photos from the abandoned Waterfall Park in Rodanthe, NC on the Outer Banks. This park with go-kart track, waterslides, and more have been abandoned since ~2010. \n\n\n\n<img src=\"uploads/2023/ad7576304f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/cd96ef918f.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2023/64c8d8bf3b.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2023/d71cd82e26.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/40c115f251.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/f223ca1ef8.jpg\" width=\"600\" height=\"444\" alt=\"\">\n",
 				"date_published": "2023-01-02T22:25:38-05:00",
 				"url": "https://jnjosh.social/2023/01/02/a-collection-of.html"
 			},
@@ -462,7 +489,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/02/doors-and-windows.html",
 				
 				"content_html": "<p>Doors and windows of the Atalaya Castle at Huntington Beach State Park in South Carolina.</p>\n<p>18mm • ƒ/5.6 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Doors and windows of the Atalaya Castle at Huntington Beach State Park in South Carolina.\r\n\r\n18mm • ƒ/5.6 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/cf73c19151.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Doors and windows of the Atalaya Castle at Huntington Beach State Park in South Carolina.\r\n\r\n18mm • ƒ/5.6 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\r\n\r\n\n\n<img src=\"uploads/2023/cf73c19151.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-02T14:16:25-05:00",
 				"url": "https://jnjosh.social/2023/01/02/doors-and-windows.html",
 				"tags": ["photography"]
@@ -479,7 +506,7 @@
 				"id": "http://jnjosh.micro.blog/2023/01/01/seagulls-presumably-having.html",
 				
 				"content_html": "<p>Seagulls presumably having a beach meeting about the rough ocean and wind.</p>\n<p>400mm • ƒ/6.3 • 1/500s • ISO 3200 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Seagulls presumably having a beach meeting about the rough ocean and wind.\n\n400mm • ƒ/6.3 • 1/500s • ISO 3200 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/b3fb7906b8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Seagulls presumably having a beach meeting about the rough ocean and wind.\n\n400mm • ƒ/6.3 • 1/500s • ISO 3200 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2023/b3fb7906b8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-01T20:27:43-05:00",
 				"url": "https://jnjosh.social/2023/01/01/seagulls-presumably-having.html",
 				"tags": ["photography"]
@@ -488,7 +515,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/31/a-trail-from.html",
 				
 				"content_html": "<p>A trail from earlier this year during autumn. I started hiking a lot this year and really love trails like this in the fall. Looking forward to what I’ll see hiking in 2023. Happy New Year!</p>\n<p>23mm • ƒ/4 • 1/500s • ISO 400 • Fujifilm X100V • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A trail from earlier this year during autumn. I started hiking a lot this year and really love trails like this in the fall. Looking forward to what I’ll see hiking in 2023. Happy New Year!\n\n23mm • ƒ/4 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/a0d4e6d3c7.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "A trail from earlier this year during autumn. I started hiking a lot this year and really love trails like this in the fall. Looking forward to what I’ll see hiking in 2023. Happy New Year!\n\n23mm • ƒ/4 • 1/500s • ISO 400 • Fujifilm X100V • #photography\n\n<img src=\"uploads/2023/a0d4e6d3c7.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-31T20:37:19-05:00",
 				"url": "https://jnjosh.social/2022/12/31/a-trail-from.html",
 				"tags": ["photography"]
@@ -497,7 +524,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/30/the-dock-at.html",
 				
 				"content_html": "<p>The dock at the New Bern KOA at sunset over the Neuse River</p>\n<p>100mm • ƒ/22 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The dock at the New Bern KOA at sunset over the Neuse River\n\n100mm • ƒ/22 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/6b9b77da48.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The dock at the New Bern KOA at sunset over the Neuse River\n\n100mm • ƒ/22 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2022/6b9b77da48.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-30T19:27:23-05:00",
 				"url": "https://jnjosh.social/2022/12/30/the-dock-at.html",
 				"tags": ["photography"]
@@ -514,7 +541,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/28/a-frozen-jellyfish.html",
 				
 				"content_html": "<p>A frozen jellyfish on the beach at Huntington Beach State Park.</p>\n<p>18mm • ƒ/10 • 1/500s • ISO 400 • #photography • Sony ɑ7 IV</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A frozen jellyfish on the beach at Huntington Beach State Park. \n\n18mm • ƒ/10 • 1/500s • ISO 400 • #photography • Sony ɑ7 IV\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/b72c02ce4e.jpg\" width=\"421\" height=\"600\" alt=\"\">\n",
+				"content_text": "A frozen jellyfish on the beach at Huntington Beach State Park. \n\n18mm • ƒ/10 • 1/500s • ISO 400 • #photography • Sony ɑ7 IV\n\n\n\n<img src=\"uploads/2022/b72c02ce4e.jpg\" width=\"421\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-28T19:10:48-05:00",
 				"url": "https://jnjosh.social/2022/12/28/a-frozen-jellyfish.html",
 				"tags": ["photography"]
@@ -523,7 +550,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/27/sunset-over-the.html",
 				
 				"content_html": "<p>Sunset over the Neuse River in New Bern, North Carolina</p>\n<p>174mm • ƒ/25 • 1/500s • ISO 800 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunset over the Neuse River in New Bern, North Carolina\n\n174mm • ƒ/25 • 1/500s • ISO 800 • Sony ɑ7 IV • #photography \n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/c6545aeaf5.jpg\" width=\"437\" height=\"600\" alt=\"\">\n",
+				"content_text": "Sunset over the Neuse River in New Bern, North Carolina\n\n174mm • ƒ/25 • 1/500s • ISO 800 • Sony ɑ7 IV • #photography \n\n<img src=\"uploads/2022/c6545aeaf5.jpg\" width=\"437\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-27T21:58:51-05:00",
 				"url": "https://jnjosh.social/2022/12/27/sunset-over-the.html",
 				"tags": ["photography"]
@@ -532,7 +559,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/27/ginger-finally-decided.html",
 				
 				"content_html": "<p>Ginger finally decided it’s fun to look out the van window. This time she found a squirrel.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ginger finally decided it’s fun to look out the van window. This time she found a squirrel.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/59f6d2459e.jpg\" width=\"450\" height=\"600\" alt=\"Cat looking out a van window with an RV in the background.\">\n",
+				"content_text": "Ginger finally decided it’s fun to look out the van window. This time she found a squirrel.\n\n<img src=\"uploads/2022/59f6d2459e.jpg\" width=\"450\" height=\"600\" alt=\"Cat looking out a van window with an RV in the background.\">\n",
 				"date_published": "2022-12-27T13:32:57-05:00",
 				"url": "https://jnjosh.social/2022/12/27/ginger-finally-decided.html"
 			},
@@ -540,7 +567,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/26/a-heron-out.html",
 				
 				"content_html": "<p>A heron out for dinner at Huntington Beach State Park in South Carolina</p>\n<p>85mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A heron out for dinner at Huntington Beach State Park in South Carolina\n\n85mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/136d8e22ba.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "A heron out for dinner at Huntington Beach State Park in South Carolina\n\n85mm • ƒ/18 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2022/136d8e22ba.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-26T19:39:25-05:00",
 				"url": "https://jnjosh.social/2022/12/26/a-heron-out.html",
 				"tags": ["photography"]
@@ -549,7 +576,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/25/a-starfish-on.html",
 				
 				"content_html": "<p>A starfish on the beach.</p>\n<p>18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A starfish on the beach.\n\n18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/61fa80812c.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "A starfish on the beach.\n\n18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2022/61fa80812c.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-25T19:57:05-05:00",
 				"url": "https://jnjosh.social/2022/12/25/a-starfish-on.html",
 				"tags": ["photography"]
@@ -558,7 +585,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/25/just-realized-if.html",
 				
 				"content_html": "<p>Just realized if Ginger goes into her kitty-cave that has the bread on it… we’ll have a Ginger breadhouse for Christmas!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just realized if Ginger goes into her kitty-cave that has the bread on it… we’ll have a Ginger breadhouse for Christmas!\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/8de9494fda.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Just realized if Ginger goes into her kitty-cave that has the bread on it… we’ll have a Ginger breadhouse for Christmas!\n\n<img src=\"uploads/2022/8de9494fda.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-25T18:55:59-05:00",
 				"url": "https://jnjosh.social/2022/12/25/just-realized-if.html"
 			},
@@ -566,7 +593,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/25/so-excited-to.html",
 				
 				"content_html": "<p>So excited to see the next several hours above freezing! It’s a Christmas miracle! 😜</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So excited to see the next several hours above freezing! It’s a Christmas miracle! 😜\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/0e265442da.jpg\" width=\"600\" height=\"296\" alt=\"\">\n",
+				"content_text": "So excited to see the next several hours above freezing! It’s a Christmas miracle! 😜\n\n<img src=\"uploads/2022/0e265442da.jpg\" width=\"600\" height=\"296\" alt=\"\">\n",
 				"date_published": "2022-12-25T11:41:31-05:00",
 				"url": "https://jnjosh.social/2022/12/25/so-excited-to.html"
 			},
@@ -574,7 +601,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/24/its-a-campervan.html",
 				
 				"content_html": "<p>it’s a campervan christmas and these are our decorations</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "it’s a campervan christmas and these are our decorations \n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/100a6d3a35.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "it’s a campervan christmas and these are our decorations \n\n<img src=\"uploads/2022/100a6d3a35.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-24T23:23:57-05:00",
 				"url": "https://jnjosh.social/2022/12/24/its-a-campervan.html"
 			},
@@ -582,7 +609,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/24/christmas-eve-pizza.html",
 				
 				"content_html": "<p>Christmas eve pizza, even in the van!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Christmas eve pizza, even in the van! \n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/cf38642805.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Christmas eve pizza, even in the van! \n\n<img src=\"uploads/2022/cf38642805.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-24T18:26:41-05:00",
 				"url": "https://jnjosh.social/2022/12/24/christmas-eve-pizza.html"
 			},
@@ -590,7 +617,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/24/a-shell-alone.html",
 				
 				"content_html": "<p>A shell alone and surrounded by this neat pattern in the sand.</p>\n<p>18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A shell alone and surrounded by this neat pattern in the sand. \n\n18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/e300aec301.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "A shell alone and surrounded by this neat pattern in the sand. \n\n18mm • ƒ/10 • 1/500s • ISO 400 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2022/e300aec301.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-24T17:31:27-05:00",
 				"url": "https://jnjosh.social/2022/12/24/a-shell-alone.html",
 				"tags": ["photography"]
@@ -599,7 +626,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/23/ginger-is-slowly.html",
 				
 				"content_html": "<p>Ginger is slowly accepting this van thing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ginger is slowly accepting this van thing.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/65024fcb2a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Ginger is slowly accepting this van thing.\n\n<img src=\"uploads/2022/65024fcb2a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-23T18:02:31-05:00",
 				"url": "https://jnjosh.social/2022/12/23/ginger-is-slowly.html"
 			},
@@ -607,7 +634,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/23/first-time-seeing.html",
 				
 				"content_html": "<p>First time seeing a Rivian charger</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First time seeing a Rivian charger\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/afb7eec0a9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "First time seeing a Rivian charger\n\n<img src=\"uploads/2022/afb7eec0a9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-23T13:03:02-05:00",
 				"url": "https://jnjosh.social/2022/12/23/first-time-seeing.html"
 			},
@@ -615,7 +642,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/23/so-windy-this.html",
 				
 				"content_html": "<p>So windy! This is wind from the cold front are wild just outside of Myrtle Beach, SC. These lights are hopefully ok since they probably experienced a hurricane.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So windy! This is wind from the cold front are wild just outside of Myrtle Beach, SC. These lights are hopefully ok since they probably experienced a hurricane.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/7dfc33c4eb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "So windy! This is wind from the cold front are wild just outside of Myrtle Beach, SC. These lights are hopefully ok since they probably experienced a hurricane.\n\n<img src=\"uploads/2022/7dfc33c4eb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-23T12:53:23-05:00",
 				"url": "https://jnjosh.social/2022/12/23/so-windy-this.html"
 			},
@@ -631,7 +658,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/21/a-nice-porch.html",
 				
 				"content_html": "<p>A nice porch that overlooks the Bodie Island Lighthouse on the Outer Banks of North Carolina. I probably could just sit here for awhile.</p>\n<p>Kodak Portra 400 • 35mm • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A nice porch that overlooks the Bodie Island Lighthouse on the Outer Banks of North Carolina. I probably could just sit here for awhile.\n\nKodak Portra 400 • 35mm • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/a33cd2cb47.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"content_text": "A nice porch that overlooks the Bodie Island Lighthouse on the Outer Banks of North Carolina. I probably could just sit here for awhile.\n\nKodak Portra 400 • 35mm • #photography\n\n<img src=\"uploads/2022/a33cd2cb47.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
 				"date_published": "2022-12-21T13:01:30-05:00",
 				"url": "https://jnjosh.social/2022/12/21/a-nice-porch.html",
 				"tags": ["photography"]
@@ -656,7 +683,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/20/going-on-afternoon.html",
 				
 				"content_html": "<p>Going on afternoon walks is rough when afternoon becomes evening at around 4pm. But the shadows look great!</p>\n<p>23mm • ƒ/4.5 • 1/640s • ISO 400 • Fujifilm X100V</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Going on afternoon walks is rough when afternoon becomes evening at around 4pm. But the shadows look great!\n\n23mm • ƒ/4.5 • 1/640s • ISO 400 • Fujifilm X100V\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/ee0caafdbb.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Going on afternoon walks is rough when afternoon becomes evening at around 4pm. But the shadows look great!\n\n23mm • ƒ/4.5 • 1/640s • ISO 400 • Fujifilm X100V\n\n<img src=\"uploads/2022/ee0caafdbb.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-20T20:41:58-05:00",
 				"url": "https://jnjosh.social/2022/12/20/going-on-afternoon.html",
 				"tags": ["photography"]
@@ -673,7 +700,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/19/ginger-knows-what.html",
 				
 				"content_html": "<p>Ginger knows what she is doing. Staying warm on my lap.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ginger knows what she is doing. Staying warm on my lap.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/975a433d6a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ginger knows what she is doing. Staying warm on my lap.\n\n<img src=\"uploads/2022/975a433d6a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-19T18:18:18-05:00",
 				"url": "https://jnjosh.social/2022/12/19/ginger-knows-what.html"
 			},
@@ -689,7 +716,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/18/the-new-river.html",
 				
 				"content_html": "<p>The New River Trail State Park has some nice views of the river with a cliff face.</p>\n<p>23mm • ƒ/11 • 1/500s • ISO 400 • Fujifilm X100V</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The New River Trail State Park has some nice views of the river with a cliff face.\n\n23mm • ƒ/11 • 1/500s • ISO 400 • Fujifilm X100V\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/d8d29552d5.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "The New River Trail State Park has some nice views of the river with a cliff face.\n\n23mm • ƒ/11 • 1/500s • ISO 400 • Fujifilm X100V\n\n<img src=\"uploads/2022/d8d29552d5.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-18T23:27:26-05:00",
 				"url": "https://jnjosh.social/2022/12/18/the-new-river.html",
 				"tags": ["photography"]
@@ -706,7 +733,7 @@
 				"id": "http://jnjosh.micro.blog/2022/12/18/ginger-looking-through.html",
 				
 				"content_html": "<p>Ginger looking through the screen door of the van contemplating how to convince us to stop this whole van thing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ginger looking through the screen door of the van contemplating how to convince us to stop this whole van thing.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2022/91048dc71d.jpg\" width=\"401\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ginger looking through the screen door of the van contemplating how to convince us to stop this whole van thing.\n\n<img src=\"uploads/2022/91048dc71d.jpg\" width=\"401\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-18T22:46:46-05:00",
 				"url": "https://jnjosh.social/2022/12/18/ginger-looking-through.html"
 			},
