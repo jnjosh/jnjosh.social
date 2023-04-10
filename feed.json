@@ -7,10 +7,85 @@
 	"items": [
 		
 			{
+				"id": "http://jnjosh.micro.blog/2023/04/09/ive-been-exploring.html",
+				
+				"content_html": "<p>I&rsquo;ve been exploring genealogy again and… I think I may have found my maternal great grandfather&rsquo;s Italian birth certificate—it&rsquo;s in Italian of course so I could be reading it wrong, but it seems to match both his date of birth and parent&rsquo;s names.</p>\n",
+				"content_text": "I've been exploring genealogy again and… I think I may have found my maternal great grandfather's Italian birth certificate—it's in Italian of course so I could be reading it wrong, but it seems to match both his date of birth and parent's names.\n",
+				"date_published": "2023-04-09T20:41:59-04:00",
+				"url": "https://jnjosh.social/2023/04/09/ive-been-exploring.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/07/this-weather-alert.html",
+				
+				"content_html": "<p>This weather alert is hilarious. 😒</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This weather alert is hilarious. 😒\n\n<img src=\"uploads/2023/0ba78e8d3e.png\" width=\"600\" height=\"371\" alt=\"iOS notification from a weather app that reads &quot;rain stopping in 16 minutes and starting 1 minute later&quot;\">\n",
+				"date_published": "2023-04-07T14:22:16-04:00",
+				"url": "https://jnjosh.social/2023/04/07/this-weather-alert.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/06/ive-owned-my.html",
+				
+				"content_html": "<p>I’ve owned my house for 20 years this month and I’ve finally decided I should have an automatic garage door opener installed. Tomorrow is the day!</p>\n",
+				"content_text": "I’ve owned my house for 20 years this month and I’ve finally decided I should have an automatic garage door opener installed. Tomorrow is the day!\n",
+				"date_published": "2023-04-06T10:35:20-04:00",
+				"url": "https://jnjosh.social/2023/04/06/ive-owned-my.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/06/a-relatively-new.html",
+				
+				"content_html": "<p>A relatively new building rising behind an abandoned building in Raleigh</p>\n<p>Ilford HP5+ • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A relatively new building rising behind an abandoned building in Raleigh\r\n\r\nIlford HP5+ • #photography\n\n<img src=\"uploads/2023/e505d38ef0.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-06T09:42:16-04:00",
+				"url": "https://jnjosh.social/2023/04/06/a-relatively-new.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/05/dear-jeep-please.html",
+				
+				"content_html": "<p>Dear Jeep, Please make this real. Please. <a href=\"https://youtu.be/350Y0WhL6U8\">youtu.be/350Y0WhL6&hellip;</a></p>\n",
+				"content_text": "Dear Jeep, Please make this real. Please. [youtu.be/350Y0WhL6...](https://youtu.be/350Y0WhL6U8)\n",
+				"date_published": "2023-04-05T20:23:17-04:00",
+				"url": "https://jnjosh.social/2023/04/05/dear-jeep-please.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/05/the-coloring-on.html",
+				
+				"content_html": "<p>The coloring on this tree&rsquo;s bark is so weird. From Staunton River State Park in Virginia. #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The coloring on this tree's bark is so weird. From Staunton River State Park in Virginia. #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/16e4f15cc5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-05T10:33:20-04:00",
+				"url": "https://jnjosh.social/2023/04/05/the-coloring-on.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/04/the-raleigh-ios.html",
+				
+				"content_html": "<p>The Raleigh iOS developer meetup I started in 2011 is in need of an organizer again. I miss running that group but not sure what it would be any more. I wish someone had a vision for it, sad to see it really end 😢.</p>\n<p>Also why is meetup.com so expensive!?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Raleigh iOS developer meetup I started in 2011 is in need of an organizer again. I miss running that group but not sure what it would be any more. I wish someone had a vision for it, sad to see it really end 😢. \n\nAlso why is meetup.com so expensive!?\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/ad9a45da8e.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-04T11:08:36-04:00",
+				"url": "https://jnjosh.social/2023/04/04/the-raleigh-ios.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/04/raleigh-from-union.html",
+				
+				"content_html": "<p>Raleigh from Union Station</p>\n<p>Ilford HP5+ • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Raleigh from Union Station\n\nIlford HP5+ • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/526a59f859.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"date_published": "2023-04-04T09:31:41-04:00",
+				"url": "https://jnjosh.social/2023/04/04/raleigh-from-union.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/03/if-you-add.html",
+				
+				"content_html": "<p>If you add a white matte style border around photos when you post them to social media… I&rsquo;m curious why? I see it a lot and wonder if it helps people see the photo better or something. It just seems weird to me—but maybe mildly skeuomorphic—to have a white matte on a social media post.</p>\n",
+				"content_text": "If you add a white matte style border around photos when you post them to social media… I'm curious why? I see it a lot and wonder if it helps people see the photo better or something. It just seems weird to me—but maybe mildly skeuomorphic—to have a white matte on a social media post.\n",
+				"date_published": "2023-04-03T10:55:07-04:00",
+				"url": "https://jnjosh.social/2023/04/03/if-you-add.html"
+			},
+			{
 				"id": "http://jnjosh.micro.blog/2023/04/03/a-tree-coming.html",
 				
-				"content_html": "<p>A tree coming out of Falls Lake State Recreation Area near Durham, North Carolina</p>\n<p>24mm • ƒ/8 • 1/500s • ISO 200 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A tree coming out of Falls Lake State Recreation Area near Durham, North Carolina\r\n\r\n24mm • ƒ/8 • 1/500s • ISO 200 • Sony ɑ7 IV • #photography\n\n<img src=\"uploads/2023/54fd92b793.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>A tree coming out of the lake at Falls Lake State Recreation Area near Durham, North Carolina</p>\n<p>24mm • ƒ/8 • 1/500s • ISO 200 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A tree coming out of the lake at Falls Lake State Recreation Area near Durham, North Carolina\n\n24mm • ƒ/8 • 1/500s • ISO 200 • Sony ɑ7 IV • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/54fd92b793.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-03T10:50:29-04:00",
 				"url": "https://jnjosh.social/2023/04/03/a-tree-coming.html",
 				"tags": ["photography"]
@@ -19,7 +94,7 @@
 				"id": "http://jnjosh.micro.blog/2023/03/29/ive-started-to.html",
 				
 				"content_html": "<p>I’ve started to end every meeting putting my AirPods back in their case and closing it like this. It’s providing such great closure to meetings! 😂</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I’ve started to end every meeting putting my AirPods back in their case and closing it like this. It’s providing such great closure to meetings! 😂\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://jnjosh.social/uploads/2023/34ba97dcfc.mov\" width=\"360\" height=\"640\" poster=\"https://jnjosh.social/uploads/2023/014b2725fb.png\" preload=\"none\"></video>\n",
+				"content_text": "I’ve started to end every meeting putting my AirPods back in their case and closing it like this. It’s providing such great closure to meetings! 😂\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/94963/2023/34ba97dcfc.mov\" width=\"360\" height=\"640\" poster=\"https://jnjosh.social/uploads/2023/014b2725fb.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-03-29T16:29:51-04:00",
 				"url": "https://jnjosh.social/2023/03/29/ive-started-to.html"
 			},
@@ -35,7 +110,7 @@
 				"id": "http://jnjosh.micro.blog/2023/03/19/nat-wanted-pancakes.html",
 				
 				"content_html": "<p>Nat wanted pancakes in the van again so I made a vancake this time! Pancake art!?!?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nat wanted pancakes in the van again so I made a vancake this time! Pancake art!?!?\n\n<img src=\"uploads/2023/8753ea9427.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "Nat wanted pancakes in the van again so I made a vancake this time! Pancake art!?!?\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/8753ea9427.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-03-19T12:28:03-04:00",
 				"url": "https://jnjosh.social/2023/03/19/nat-wanted-pancakes.html"
 			},
@@ -43,7 +118,7 @@
 				"id": "http://jnjosh.micro.blog/2023/03/18/cooking-foil-wrapped.html",
 				
 				"content_html": "<p>Cooking foil wrapped meals on the fire!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cooking foil wrapped meals on the fire! \n\n<img src=\"uploads/2023/271e9416ba.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Cooking foil wrapped meals on the fire! \n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/271e9416ba.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-18T17:46:35-04:00",
 				"url": "https://jnjosh.social/2023/03/18/cooking-foil-wrapped.html"
 			},
@@ -163,7 +238,7 @@
 				"id": "http://jnjosh.micro.blog/2023/03/05/march-photoblog-challenge.html",
 				
 				"content_html": "<p>March Photoblog Challenge Day 5 #mbmar #photography</p>\n<p>Tile</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " March Photoblog Challenge Day 5 #mbmar #photography\n\nTile\n\n<img src=\"uploads/2023/cb328ba1be.jpg\" width=\"600\" height=\"600\" alt=\"tiles from the boardgame Azul in front of the game's box\">\n",
+				"content_text": " March Photoblog Challenge Day 5 #mbmar #photography\n\nTile\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/cb328ba1be.jpg\" width=\"600\" height=\"600\" alt=\"tiles from the boardgame Azul in front of the game's box\">\n",
 				"date_published": "2023-03-05T22:05:50-04:00",
 				"url": "https://jnjosh.social/2023/03/05/march-photoblog-challenge.html",
 				"tags": ["photography"]
@@ -172,7 +247,7 @@
 				"id": "http://jnjosh.micro.blog/2023/03/04/march-photoblog-challenge.html",
 				
 				"content_html": "<p><a href=\"https://challenges.micro.blog/2023/02/26/the-may-photoblogging.html\">March Photoblog Challenge</a> Day 4 (I missed day 1–3 but still want to play along) #photography</p>\n<p>Zip</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[March Photoblog Challenge](https://challenges.micro.blog/2023/02/26/the-may-photoblogging.html) Day 4 (I missed day 1–3 but still want to play along) #photography\n\nZip\n\n<img src=\"uploads/2023/d9cd497578.jpg\" width=\"450\" height=\"600\" alt=\"A red zipper being unzipped by a hand above a black and white grid\">\n",
+				"content_text": "[March Photoblog Challenge](https://challenges.micro.blog/2023/02/26/the-may-photoblogging.html) Day 4 (I missed day 1–3 but still want to play along) #photography\n\nZip\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/d9cd497578.jpg\" width=\"450\" height=\"600\" alt=\"A red zipper being unzipped by a hand above a black and white grid\">\n",
 				"date_published": "2023-03-04T23:25:08-04:00",
 				"url": "https://jnjosh.social/2023/03/04/march-photoblog-challenge.html",
 				"tags": ["photography"]
@@ -189,7 +264,7 @@
 				"id": "http://jnjosh.micro.blog/2023/03/03/my-neighbor-is.html",
 				
 				"content_html": "<p>My neighbor is renovating their house so I took a few test photos of this equipment with the new medium format camera.</p>\n<p>Ilford HP5+ • Mamiya 645 Super • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My neighbor is renovating their house so I took a few test photos of this equipment with the new medium format camera.\r\n\r\nIlford HP5+ • Mamiya 645 Super • #photography\n\n<img src=\"uploads/2023/edf670756b.jpg\" width=\"600\" height=\"439\" alt=\"\">\n",
+				"content_text": "My neighbor is renovating their house so I took a few test photos of this equipment with the new medium format camera.\r\n\r\nIlford HP5+ • Mamiya 645 Super • #photography\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/edf670756b.jpg\" width=\"600\" height=\"439\" alt=\"\">\n",
 				"date_published": "2023-03-03T12:42:24-04:00",
 				"url": "https://jnjosh.social/2023/03/03/my-neighbor-is.html",
 				"tags": ["photography"]
@@ -198,7 +273,7 @@
 				"id": "http://jnjosh.micro.blog/2023/03/02/ive-been-sharing.html",
 				
 				"content_html": "<p>I&rsquo;ve been sharing a lot of black and white photos recently, so here&rsquo;s a photo of Ginger the cat to break it up a bit. 🙃</p>\n<p>35mm • ƒ/1.4 • 1/320s • ISO 1600 • Sony ɑ7 IV • #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've been sharing a lot of black and white photos recently, so here's a photo of Ginger the cat to break it up a bit. 🙃\r\n\r\n35mm • ƒ/1.4 • 1/320s • ISO 1600 • Sony ɑ7 IV • #photography \n\n<img src=\"uploads/2023/0a72b64af1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I've been sharing a lot of black and white photos recently, so here's a photo of Ginger the cat to break it up a bit. 🙃\r\n\r\n35mm • ƒ/1.4 • 1/320s • ISO 1600 • Sony ɑ7 IV • #photography \n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/0a72b64af1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-02T11:15:00-04:00",
 				"url": "https://jnjosh.social/2023/03/02/ive-been-sharing.html",
 				"tags": ["photography"]
