@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://jnjosh.micro.blog/2023/04/13/walking-over-a.html",
+				
+				"content_html": "<p>Walking over a bunch of sand dunes I saw a a guy sitting on top of a dune reading a book. As I got closer I realized he was reading “Dune”. Well played.</p>\n",
+				"content_text": "Walking over a bunch of sand dunes I saw a a guy sitting on top of a dune reading a book. As I got closer I realized he was reading “Dune”. Well played.\n",
+				"date_published": "2023-04-13T20:35:02-04:00",
+				"url": "https://jnjosh.social/2023/04/13/walking-over-a.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/11/the-fountain-at.html",
+				
+				"content_html": "<p>The fountain at Duke Gardens in Durham, North Carolina</p>\n<p>Ilford HP5+ • #photography #film #blackandwhite</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The fountain at Duke Gardens in Durham, North Carolina\r\n\r\nIlford HP5+ • #photography #film #blackandwhite\n\n<img src=\"uploads/2023/a6f4acbf65.jpg\" width=\"600\" height=\"397\" alt=\"\">\n",
+				"date_published": "2023-04-11T09:07:18-04:00",
+				"url": "https://jnjosh.social/2023/04/11/the-fountain-at.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/10/early-in-the.html",
+				
+				"content_html": "<p>Early in the pandemic Nat and I started Twitch streaming our Geoguessr games. This was a fun moment where Nat realized we were in Malta at the last second!</p>\n<p><a href=\"https://www.twitch.tv/jnjoshplays/clip/HomelySmellyMinkCclamChamp?fbclid=IwAR0I9GWXtcRI3ptSOdNrcxcksF8PrZS-zUHWxTQVQ7fCthBDraGRfhccRoQ\">www.twitch.tv/jnjoshpla&hellip;</a></p>\n",
+				"content_text": "Early in the pandemic Nat and I started Twitch streaming our Geoguessr games. This was a fun moment where Nat realized we were in Malta at the last second!\r\n\r\n[www.twitch.tv/jnjoshpla...](https://www.twitch.tv/jnjoshplays/clip/HomelySmellyMinkCclamChamp?fbclid=IwAR0I9GWXtcRI3ptSOdNrcxcksF8PrZS-zUHWxTQVQ7fCthBDraGRfhccRoQ)\n",
+				"date_published": "2023-04-10T10:27:19-04:00",
+				"url": "https://jnjosh.social/2023/04/10/early-in-the.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/04/10/i-only-learned.html",
+				
+				"content_html": "<p>I only learned recently that the Oak Rock trail at Umstead State Park in Raleigh is apparently named after this oak growing out of these rocks. The naming is pretty accurate.</p>\n<p>23mm • ƒ/5 • 1/500s • ISO 400 • #photography #nature</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I only learned recently that the Oak Rock trail at Umstead State Park in Raleigh is apparently named after this oak growing out of these rocks. The naming is pretty accurate.\r\n\r\n23mm • ƒ/5 • 1/500s • ISO 400 • #photography #nature\n\n<img src=\"uploads/2023/dc9e6ca27e.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-10T10:20:47-04:00",
+				"url": "https://jnjosh.social/2023/04/10/i-only-learned.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://jnjosh.micro.blog/2023/04/09/ive-been-exploring.html",
 				
 				"content_html": "<p>I&rsquo;ve been exploring genealogy again and… I think I may have found my maternal great grandfather&rsquo;s Italian birth certificate—it&rsquo;s in Italian of course so I could be reading it wrong, but it seems to match both his date of birth and parent&rsquo;s names.</p>\n",
