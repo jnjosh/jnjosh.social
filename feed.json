@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://jnjosh.micro.blog/2023/06/09/one-thing-i.html",
+				
+				"content_html": "<p>One thing I don’t miss from WWDC is the lines. This was 2015.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One thing I don’t miss from WWDC is the lines. This was 2015.\n\n<img src=\"uploads/2023/a876976c79.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-09T10:26:01-04:00",
+				"url": "https://jnjosh.social/2023/06/09/one-thing-i.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/06/09/i-went-to.html",
+				
+				"content_html": "<p>I went to a zoom-based Italian conversation meetup this morning. They all seemed to be in various levels of learning and I feel like I understood most of what everyone said or asked. The weird thing is how Spanish words I learned 20+ years ago will just jump out as I try to say something in Italian</p>\n",
+				"content_text": "I went to a zoom-based Italian conversation meetup this morning. They all seemed to be in various levels of learning and I feel like I understood most of what everyone said or asked. The weird thing is how Spanish words I learned 20+ years ago will just jump out as I try to say something in Italian \n",
+				"date_published": "2023-06-09T09:09:22-04:00",
+				"url": "https://jnjosh.social/2023/06/09/i-went-to.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/06/08/i-just-downloaded.html",
+				
+				"content_html": "<p>I just downloaded the Xcode beta, unarchived, and installed it all in less than 10 minutes. We&rsquo;re living in the future now.</p>\n",
+				"content_text": "I just downloaded the Xcode beta, unarchived, and installed it all in less than 10 minutes. We're living in the future now.\n",
+				"date_published": "2023-06-08T12:50:53-04:00",
+				"url": "https://jnjosh.social/2023/06/08/i-just-downloaded.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/06/08/this-is-probably.html",
+				
+				"content_html": "<p>This has probably already been talked about but it looks like <code>visionOS</code> was a late decision. WWDC video about web inspectors explicitly calls it <code>xrOS</code>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This has probably already been talked about but it looks like `visionOS` was a late decision. WWDC video about web inspectors explicitly calls it `xrOS`.\n\n<img src=\"uploads/2023/dbbd22e634.png\" width=\"600\" height=\"350\" alt=\"\">\n",
+				"date_published": "2023-06-08T11:08:17-04:00",
+				"url": "https://jnjosh.social/2023/06/08/this-is-probably.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/06/06/i-woke-up.html",
+				
+				"content_html": "<p>I woke up still feeling a bit skeptical about this Vision Pro thing. However, I feel like I have an idea for an app too now so… I guess that&rsquo;s forward progress?</p>\n",
+				"content_text": "I woke up still feeling a bit skeptical about this Vision Pro thing. However, I feel like I have an idea for an app too now so… I guess that's forward progress?\n",
+				"date_published": "2023-06-06T10:13:54-04:00",
+				"url": "https://jnjosh.social/2023/06/06/i-woke-up.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/06/06/the-whole-swift.html",
+				
+				"content_html": "<p>The whole Swift to C++ interop that’s now available is really interesting. This will be much better than what we built at Highrise, bridging through Objective-C++. I wonder if the Android side is any better now, bridging through JNI C was much more painful.</p>\n",
+				"content_text": "The whole Swift to C++ interop that’s now available is really interesting. This will be much better than what we built at Highrise, bridging through Objective-C++. I wonder if the Android side is any better now, bridging through JNI C was much more painful.\n",
+				"date_published": "2023-06-06T08:56:29-04:00",
+				"url": "https://jnjosh.social/2023/06/06/the-whole-swift.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/06/05/wait-mergeable-libraries.html",
+				
+				"content_html": "<p>Wait… &ldquo;Mergeable Libraries&rdquo; what was that? Like a new framework type that is an aggregate? #WWDC</p>\n",
+				"content_text": "Wait… \"Mergeable Libraries\" what was that? Like a new framework type that is an aggregate? #WWDC \n",
+				"date_published": "2023-06-05T17:31:37-04:00",
+				"url": "https://jnjosh.social/2023/06/05/wait-mergeable-libraries.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/06/05/wow-im-super.html",
+				
+				"content_html": "<p>Wow, I&rsquo;m super excited about SwiftData. Can&rsquo;t wait to play with this API.</p>\n",
+				"content_text": "Wow, I'm super excited about SwiftData. Can't wait to play with this API.\n",
+				"date_published": "2023-06-05T16:52:21-04:00",
+				"url": "https://jnjosh.social/2023/06/05/wow-im-super.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/06/05/there-was-this.html",
+				
+				"content_html": "<p>There was this poorly implemented shot in some Steven Seagal movie where they composited his face into a motorcycle helmet. Well… it&rsquo;s kind of an out of context WWDC spoiler</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "There was this poorly implemented shot in some Steven Seagal movie where they composited his face into a motorcycle helmet. Well… it's kind of an out of context WWDC spoiler\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/c343225fa4.jpeg\" width=\"600\" height=\"265\" alt=\"\">\n",
+				"date_published": "2023-06-05T16:24:28-04:00",
+				"url": "https://jnjosh.social/2023/06/05/there-was-this.html"
+			},
+			{
 				"id": "http://jnjosh.micro.blog/2023/06/04/ive-been-thinking.html",
 				
 				"content_html": "<p>I’ve been thinking this morning about how things in sci fi often show up in reality. Star Trek communicators to cell phones, for example. Going the other way what sci fi did generative AI show up in? Best guess I have is the star trek holodeck.</p>\n",
@@ -26,7 +98,7 @@
 				"id": "http://jnjosh.micro.blog/2023/05/31/post-lunch-espresso.html",
 				
 				"content_html": "<p>Post lunch espresso ☕️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Post lunch espresso ☕️ \n\n<img src=\"uploads/2023/deaaa42973.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Post lunch espresso ☕️ \n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/deaaa42973.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-31T12:27:37-04:00",
 				"url": "https://jnjosh.social/2023/05/31/post-lunch-espresso.html"
 			},
