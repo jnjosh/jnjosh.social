@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jnjosh.micro.blog/2023/06/26/tonight-i-cooked.html",
+				
+				"content_html": "<p>Tonight I cooked Lasagna rolls. Basically instead of stacking the lasagna you roll it up in a noodle.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tonight I cooked Lasagna rolls. Basically instead of stacking the lasagna you roll it up in a noodle.\n\n<img src=\"uploads/2023/7146197a5a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-26T18:43:48-04:00",
+				"url": "https://jnjosh.social/2023/06/26/tonight-i-cooked.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/06/25/todays-dinner-pasta.html",
+				
+				"content_html": "<p>Today’s dinner, Pasta alla Zozzona.</p>\n<p>From the first recipe here:</p>\n<p><a href=\"https://youtube.com/watch?v=NYx2Gw0th7k\">youtube.com/watch</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today’s dinner, Pasta alla Zozzona. \n\nFrom the first recipe here:\n\n[youtube.com/watch](https://youtube.com/watch?v=NYx2Gw0th7k)\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-25T18:00:33-04:00",
+				"url": "https://jnjosh.social/2023/06/25/todays-dinner-pasta.html"
+			},
+			{
 				"id": "http://jnjosh.micro.blog/2023/06/21/i-feel-like.html",
 				
 				"content_html": "<p>I feel like my Italian language learning just got a little more complete because of this video. I can now occasionally roll my Rs after trying this for a bit. <a href=\"https://www.youtube.com/watch?v=9Sid6MQvTRQ\">www.youtube.com/watch</a></p>\n",
@@ -90,7 +106,7 @@
 				"id": "http://jnjosh.micro.blog/2023/06/08/this-is-probably.html",
 				
 				"content_html": "<p>This has probably already been talked about but it looks like <code>visionOS</code> was a late decision. WWDC video about web inspectors explicitly calls it <code>xrOS</code>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This has probably already been talked about but it looks like `visionOS` was a late decision. WWDC video about web inspectors explicitly calls it `xrOS`.\n\n<img src=\"uploads/2023/dbbd22e634.png\" width=\"600\" height=\"350\" alt=\"\">\n",
+				"content_text": "This has probably already been talked about but it looks like `visionOS` was a late decision. WWDC video about web inspectors explicitly calls it `xrOS`.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/dbbd22e634.png\" width=\"600\" height=\"350\" alt=\"\">\n",
 				"date_published": "2023-06-08T11:08:17-04:00",
 				"url": "https://jnjosh.social/2023/06/08/this-is-probably.html"
 			},
