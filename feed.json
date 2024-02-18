@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jnjosh.micro.blog/2024/02/18/i-found-over.html",
+				
+				"content_html": "<p>I found over the last year using micro.blog for the small amount of posting I do that while it’s great using it as a mastodon connection was a bit of an impedance mismatch. So I broke the connection and am going to try both separately this year. I’m <a href=\"https://micro.blog/jnjosh@mastodon.social\">@jnjosh@mastodon.social</a> too now.</p>\n",
+				"content_text": "I found over the last year using micro.blog for the small amount of posting I do that while it’s great using it as a mastodon connection was a bit of an impedance mismatch. So I broke the connection and am going to try both separately this year. I’m [@jnjosh@mastodon.social](https://micro.blog/jnjosh@mastodon.social) too now. \n",
+				"date_published": "2024-02-18T10:31:21-05:00",
+				"url": "https://jnjosh.social/2024/02/18/i-found-over.html"
+			},
+			{
+				"id": "http://jnjosh.micro.blog/2023/11/09/i-started-a.html",
+				
+				"content_html": "<p>I started a sourdough starter to make bread but really it now exists for fresh crackers every day. So good.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I started a sourdough starter to make bread but really it now exists for fresh crackers every day. So good.\n\n<img src=\"uploads/2023/221731cba5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-09T10:46:59-05:00",
+				"url": "https://jnjosh.social/2023/11/09/i-started-a.html"
+			},
+			{
 				"id": "http://jnjosh.micro.blog/2023/11/08/back-in-i.html",
 				
 				"content_html": "<p>Back in ~2004, I got sucked into the build-a-depth-of-field-adapter for your camcorder excitement. I still remember spending hours making a ground glass. Anyway, now you can buy one for your phone: <a href=\"http://kck.st/46687QJ\">kck.st/46687QJ</a></p>\n",
@@ -50,7 +66,7 @@
 				"id": "http://jnjosh.micro.blog/2023/06/26/tonight-i-cooked.html",
 				
 				"content_html": "<p>Tonight I cooked Lasagna rolls. Basically instead of stacking the lasagna you roll it up in a noodle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tonight I cooked Lasagna rolls. Basically instead of stacking the lasagna you roll it up in a noodle.\n\n<img src=\"uploads/2023/7146197a5a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tonight I cooked Lasagna rolls. Basically instead of stacking the lasagna you roll it up in a noodle.\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/7146197a5a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-26T17:43:48-05:00",
 				"url": "https://jnjosh.social/2023/06/26/tonight-i-cooked.html"
 			},
@@ -58,7 +74,7 @@
 				"id": "http://jnjosh.micro.blog/2023/06/25/todays-dinner-pasta.html",
 				
 				"content_html": "<p>Today’s dinner, Pasta alla Zozzona.</p>\n<p>From the first recipe here:</p>\n<p><a href=\"https://youtube.com/watch?v=NYx2Gw0th7k\">youtube.com/watch</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today’s dinner, Pasta alla Zozzona. \n\nFrom the first recipe here:\n\n[youtube.com/watch](https://youtube.com/watch?v=NYx2Gw0th7k)\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Today’s dinner, Pasta alla Zozzona. \n\nFrom the first recipe here:\n\n[youtube.com/watch](https://youtube.com/watch?v=NYx2Gw0th7k)\n\n<img src=\"https://cdn.uploads.micro.blog/94963/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-25T17:00:33-05:00",
 				"url": "https://jnjosh.social/2023/06/25/todays-dinner-pasta.html"
 			},
